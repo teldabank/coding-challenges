@@ -28,3 +28,4 @@ Solutions must:
   - C++
   - Ruby
   - JavaScript
+- Avoid using libraries, for example Java's ScheduledExecutorService.scheduleAtFixedRate functionality
